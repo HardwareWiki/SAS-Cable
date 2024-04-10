@@ -6,6 +6,12 @@
 
 # Market.
 ## AliExpress
+## Free shipping if > $10:
+- 6.98 https://www.aliexpress.us/item/3256804269790460.html
+- 7.20 https://www.aliexpress.us/item/3256804900359380.html
+
+
+### index:
 - 5.78 https://www.aliexpress.us/item/3256805458787966.html
 - 6.14 https://www.aliexpress.us/item/3256804269790460.html
 - https://www.aliexpress.us/item/3256802992412715.html
